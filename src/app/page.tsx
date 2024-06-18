@@ -3,8 +3,8 @@ import Navbar from './components/navbar';
 import Footer from './components/footer';
 
 export default function Home() {
-  const name = 'JIHOON';
-  const result = 1 + 2;
+  const name = 'SeongMinWook';
+  const result = 2023 + 2024;
 
   return (
     <main className="min-h-screen">
