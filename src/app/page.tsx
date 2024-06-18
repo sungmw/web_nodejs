@@ -30,7 +30,7 @@ export default function Home() {
       <div className="font-mono bg-blue-600 text-blue-300 text-center m-4 flex justify-center">
         <Image
           src="/image_47.jpg"
-          alt="guitar.jpg"
+          alt="minwook.jpg"
           width="500"
           height="300"
         ></Image>
